@@ -26,5 +26,6 @@ Demonstration with fibonacci sequence example:
     nnnnw[w]e
     ss]
 ![img_1.png](img_1.png)
+
 Result:
 ![img.png](img.png)
