@@ -28,4 +28,5 @@ Demonstration with fibonacci sequence example:
 ![img_1.png](img_1.png)
 
 Result:
+
 ![img.png](img.png)
